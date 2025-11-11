@@ -16,4 +16,4 @@ JSONALE is `a superset of JSON using binary storage, featureing fast jump-read, 
 
 #### Still Working on ...
 
-By Nathmath/Katz/dof-studio
+By Nathmath/fliggy39/dof-studio
